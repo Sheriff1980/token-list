@@ -21950,5 +21950,14 @@
     "website": "https://solbunny.io",
     "discord":"https://discord.gg/h7CZnKCb",
     "twitter":"https://twitter.com/SolanaBunny"
-  }
+  },
+  "chainId": 101,
+  "address": "9bje9nxJjsUPKqiM1AJ8hgP7tLwQdAEqvZKyKL5ake5G",
+  "symbol": "DYLS",
+  "name": "Daylus Token",
+  "decimals": 8,
+  "logoURI": "https://user-images.githubusercontent.com/93754847/140462981-c2efcac5-bd24-48a9-9420-8ae4d8f7f053.png",
+  "tags": [
+    "Utility"
+  ]
 }
